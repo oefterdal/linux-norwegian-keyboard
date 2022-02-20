@@ -20,5 +20,5 @@ Modifications to make Norwegian Mac Keyboard work like it does under macos
 ##
 
 Thanks to 
-https://github.com/gulrotkake/Ubuntu-MacBook-Norwegian-keyboard
-https://github.com/jacoweb/ubuntu-mac-keyboard-no
+* https://github.com/gulrotkake/Ubuntu-MacBook-Norwegian-keyboard
+* https://github.com/jacoweb/ubuntu-mac-keyboard-no
