@@ -2,7 +2,7 @@
 Modifications to make Norwegian Mac Keyboard work like it does under macos
 
 ## Tested with
-* Apple Kayboard 
+* Apple Keyboard 
 * Logitech MX Keys Apple version
 
 ## Steps
